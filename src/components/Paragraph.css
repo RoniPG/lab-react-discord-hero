@@ -1,0 +1,9 @@
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    /* border: 5px solid black; */
+    width: 65%;
+    color: aliceblue;
+    position: relative;
+    z-index: 100;
+}

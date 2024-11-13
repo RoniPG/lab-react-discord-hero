@@ -1,0 +1,19 @@
+.container button {
+    border-radius: 20px;
+    height: 6vh;
+    padding: 10px;
+    margin-bottom: 2vh;
+}
+
+.container .white{
+    background-color: aliceblue;
+    color: black;
+    height: 7vh;
+    border: none;
+}
+
+.black{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+}
